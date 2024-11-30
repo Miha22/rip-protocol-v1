@@ -1,0 +1,8 @@
+[submodule "lib/libevent"]
+	path = lib/libevent
+	url = https://github.com/libevent/libevent.git
+	branch = master
+[submodule "lib/libpatricia"]
+	path = lib/libpatricia
+	url = https://github.com/CAIDA/cc-common.git
+	branch = master
