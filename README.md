@@ -1,4 +1,4 @@
-## Routing Information Protocol Version 1
+## Routing Information Protocol Version 2
 ### Overview
 A routing information sharing protocol based on sockets according to RFC 2453 https://datatracker.ietf.org/doc/html/rfc2453 documentation. The project is launched on a single physical host creating virtual interfaces/network topology in **mininet**. There are two direct dependencies: *libevent*, *cc-common*. And *mininet* (of course). 
 > *// Pox and pox modules learning, hub etc. were ommited.*
